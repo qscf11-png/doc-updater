@@ -28,6 +28,9 @@ def create_mapping(excel_path):
                 if old_id and new_id and old_id != new_id:
                     mapping[old_id] = new_id
 
+    # 手動加入通用名稱變更
+    mapping["操作指導書"] = "作業指導書"
+
     return mapping
 
 def replace_text_in_docx(doc_path, mapping, output_path):
