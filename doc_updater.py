@@ -27,6 +27,12 @@ def create_mapping(excel_path):
                 new_id = new_val.split('_')[0].strip()
                 if old_id and new_id and old_id != new_id:
                     mapping[old_id] = new_id
+            
+            # 新增：純名稱匹配 (移除編號後的剩餘部分)
+            old_name_only = old_clean.split('_', 1)[-1].strip() if '_' in old_clean else old_clean
+            new_name_only = new_val.split('_', 1)[-1].strip() if '_' in new_val else new_val
+            if old_name_only and new_name_only and old_name_only != new_name_only:
+                mapping[old_name_only] = new_name_only
 
     # 手動加入通用名稱變更
     mapping["操作指導書"] = "作業指導書"
