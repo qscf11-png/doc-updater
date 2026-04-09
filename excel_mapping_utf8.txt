@@ -1,0 +1,23 @@
+﻿Sheet: 【勿動】TAF實驗室管理系統文件地圖(留存2025)
+Columns: ['ISO/IEC17025(2017)、CNS17025(2018) 實驗室管理系統文件總覽表  ---  TAF 4130 CoC(Core of Competence)測試實驗室', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', '最後更新日：2025/06/05']
+   Unnamed: 1           Unnamed: 5
+0         NaN                 三階文件
+1         NaN  作業指導書、規範、規則、辦法、操作手冊
+2        條文要求              Doc. ID
+3        通用要求                    　
+4         公正性          HQ-HR-W-059
+5         NaN                    　
+6         NaN                    　
+7         保密性          HQ-HR-W-059
+8         NaN                    　
+9         NaN                    　
+10       結構要求                    　
+11        NaN                    　
+12        NaN                    　
+13        NaN                    　
+14        NaN                    　
+15        NaN                    　
+16        NaN                    　
+17        NaN                    　
+18       資源要求                    　
+19         總則                    　

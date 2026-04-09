@@ -1,0 +1,96 @@
+﻿         Col_B        Col_F
+5          公正性  HQ-HR-W-059
+6          NaN            　
+7          NaN            　
+8          保密性  HQ-HR-W-059
+9          NaN            　
+10         NaN            　
+11        結構要求            　
+12         NaN            　
+13         NaN            　
+14         NaN            　
+15         NaN            　
+16         NaN            　
+17         NaN            　
+18         NaN            　
+19        資源要求            　
+20          總則            　
+21          人員  HQ-HR-W-001
+22         NaN  HQ-HR-W-022
+23         NaN            　
+24         NaN            　
+25         NaN            　
+26         NaN            　
+27         NaN            　
+28         NaN            　
+29  實驗室設施和環境條件            　
+30         NaN            　
+31         NaN            　
+32          設備            　
+33         NaN            　
+34         NaN            　
+35         NaN            　
+36         NaN            　
+37         NaN            　
+38         NaN            　
+39         NaN            　
+40       計量溯源性            　
+41         NaN            　
+42         NaN            　
+43         NaN            　
+44         NaN            　
+45         NaN            　
+46  外部提供的產品及服務            　
+47         NaN            　
+48         NaN            　
+49         NaN            　
+50        過程要求            　
+51  要求、標案和合約審查            　
+52        技術記錄    HQ-PD.516
+53         NaN    HQ-PD.517
+54         NaN    HQ-PD.518
+55         NaN    HQ-PD.519
+56         NaN    HQ-PD.521
+57         NaN    HQ-PD.522
+58         NaN    HQ-PD.523
+59         NaN    HQ-PD.524
+60         NaN    HQ-PD.525
+61         NaN    HQ-PD.534
+62         NaN    HQ-PD.535
+63         NaN    HQ-PD.484
+64         NaN    HQ-PD.485
+65         NaN    HQ-PD.486
+66         NaN    HQ-PD.487
+67         NaN    HQ-PD.488
+68         NaN    HQ-PD.489
+69         NaN    HQ-PD.490
+70         NaN    HQ-PD.537
+71         NaN    HQ-PD.591
+72         NaN    HQ-PD.495
+73         NaN    HQ-PD.496
+74         NaN    HQ-PD.497
+75         NaN    HQ-PD.498
+76         NaN    HQ-PD.499
+77         NaN    HQ-PD.500
+78         NaN    HQ-PD.501
+79         NaN    HQ-PD.502
+80         NaN    HQ-PD.503
+81         NaN    HQ-PD.504
+82         NaN    HQ-PD.505
+83         NaN    HQ-PD.506
+84         NaN    HQ-PD.507
+85         NaN    HQ-PD.508
+86         NaN    HQ-PD.509
+87         NaN    HQ-PD.510
+88         NaN    HQ-PD.511
+89         NaN    HQ-PD.512
+90         NaN    HQ-PD.513
+91         NaN    HQ-PD.514
+92         NaN    HQ-PD.515
+93         NaN    HQ-PD.520
+94         NaN    HQ-PD.531
+95         NaN    HQ-PD.532
+96         NaN    HQ-PD.533
+97         NaN          NaN
+98         NaN          NaN
+99         NaN          NaN
